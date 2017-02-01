@@ -17,7 +17,6 @@
     "npmlog":"1.2.1"
   },
   "scripts": {
-    "start": "node App/app.js",
-    "postinstall": "mkdir -p Datasets/Limits && mkdir -p Datasets/Plots"
+    "start": "node App/app.js"
   }
 }
