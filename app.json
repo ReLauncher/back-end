@@ -1,11 +1,10 @@
 {
-  "name": "ReLauncher",
-  "description": "ReLauncher cancels and relaunches units on CrowdFlower which are in judging mode for too long time",
-  "repository": "https://github.com/pavelk2/crowd-launcher-api",
+  "name": "Back-end",
+  "description": "Microtask runtime controller back-end",
+  "repository": "https://github.com/ReLauncher/back-end",
   "logo": "http://cliparts.co/cliparts/8cE/59B/8cE59BXca.png",
-  "keywords": ["express", "angularjs","crowdflower"],
+  "keywords": ["express","crowdflower"],
   "env": {
-    "BUILDPACK_URL": "https://github.com/ddollar/heroku-buildpack-multi.git",
     "HEROKU_URL": {
       "description": "The URL of this Heroku app.",
       "value": "http://YOURAPPNAME.herokuapp.com"
